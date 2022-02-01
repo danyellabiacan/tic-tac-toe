@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic-Tac-Toe including a GUI
+tic-tac-toe game with a GUI implementation
